@@ -1,0 +1,6 @@
+python-dotenv
+deepsearch-toolkit
+tesseract
+pytesseract
+pdf2image
+pillow
